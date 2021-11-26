@@ -29,7 +29,7 @@ public class FundamentosApplication implements CommandLineRunner {
 	}
 /*
 	@Autowired
-	private ComponentDependency componentDependency;+
+	private ComponentDependency componentDependency;+x
 */
 	/*
 	public FundamentosApplication(ComponentDependency componentDependency) {
